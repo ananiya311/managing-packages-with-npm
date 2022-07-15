@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "ananiya",
+	"keywords": ["freecodecamp", "tutorial", "nodejs"],
 	"description": "A project that does something awesome",
 	"dependencies": {
 		"experss": "^0.0.1-security",
