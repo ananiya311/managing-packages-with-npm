@@ -4,6 +4,7 @@
 	"keywords": ["freecodecamp", "tutorial", "nodejs"],
 	"license": "MIT",
 	"description": "A project that does something awesome",
+	"version": "1.0.0",
 	"dependencies": {
 		"experss": "^0.0.1-security",
 		"express": "^4.14.0"
